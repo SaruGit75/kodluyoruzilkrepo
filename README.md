@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://github.com/SaruGit75/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![denemeimages](C:\Users\srhn7\Desktop\resim.PNG)
+![denemeimages](resim.PNG)
