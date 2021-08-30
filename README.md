@@ -12,8 +12,10 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linuz için:
 
-''' cd kodluyoruzilkrepo
-code '''
+'''
+cd kodluyoruzilkrepo
+code 
+'''
 
 ## Contributing
 
